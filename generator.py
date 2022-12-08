@@ -1,4 +1,4 @@
-// passwword generator 
+// passwword generator
 
 import random 
 
