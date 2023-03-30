@@ -1,3 +1,3 @@
 # password-generator
 generates strong passwords
-example: tjhvu9-ginpWs-veptyh
+example: tjhvu9-ginpWs-veptyh 
